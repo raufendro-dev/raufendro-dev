@@ -1,4 +1,4 @@
-![](https://github.com/raufendro-dev/raufendro-dev/raw/main/raufendro.gif)
+![]<img src="https://github.com/raufendro-dev/raufendro-dev/raw/main/raufendro.gif" height="50%"/>
 ### Hello 👋
 
 💼  IT Support PT. Unisia Tera Medika</br>
