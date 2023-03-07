@@ -2,6 +2,6 @@
 
 ### Hello 👋
 
-😍  I like Python and Dart programming language</br>
-⚡   Fun fact: I can use many operating systems such as MacOS, Linux, Windows</br>
-📞  Contact : wa.me/6281248212407
+💼  Mobile Developer Android & iOS</br>
+⚡   Fast Learning</br>
+📞  Contact : me@raufendro-dev.com
