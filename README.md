@@ -4,7 +4,7 @@
 ⚡   Fast Learning</br>
 📞  Contact : me@raufendro-dev.com
 
-## $\hello$
+## $\textcolor{olive}{\TeX}$
 
 ## My Stats
 <p align="left">
