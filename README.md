@@ -4,7 +4,7 @@
 ⚡   Fast Learning</br>
 📞  Contact : me@raufendro-dev.com
 
-## $\color[rgb]{1,0,1} hello$
+## $\hello$
 
 ## My Stats
 <p align="left">
