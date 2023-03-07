@@ -4,7 +4,7 @@
 ⚡   Fast Learning</br>
 📞  Contact : me@raufendro-dev.com
 
-## $\color{green}\textit{hello}$
+## $\colorbox{green}{\textit{hello}}$
 
 ## My Stats
 <p align="left">
