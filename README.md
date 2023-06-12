@@ -1,7 +1,7 @@
 # Hello 👋
 
 💼  Mobile Developer Android & iOS</br>
-⚡   Fast Learning</br>
+⚡   Fast Learner</br>
 📞  Contact : me@raufendro-dev.com
 
 
