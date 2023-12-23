@@ -8,7 +8,7 @@ I am a mobile developer who has been working for 3 years. I started with Flutter
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * ✉️  You can contact me at [me@raufendro-dev.com](mailto:me@raufendro-dev.com)
-* 🚀  I'm currently working on [HRD.ID Mobile Apps](http://hrd.id), [MyCitranet Mobile Apps](https://citra.net.id/), [Baraya Paket Mobile Apps](https://baraya-paket.com/)
+* 🚀  I'm currently working on [HRD.ID Mobile Apps](http://hrd.id), [MyCitranet Mobile Apps](https://citra.net.id/), and [Baraya Paket Mobile Apps](https://baraya-paket.com/)
 * 🧠  I'm learning Bloc State Management Library
 * 🤝  I'm open to collaborating on Mobile Development Project
 * ⚡  My super power is smart... but don't tell anyone
