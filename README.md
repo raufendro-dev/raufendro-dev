@@ -13,11 +13,6 @@ I am a mobile developer who has been working for 2 years. I started with Flutter
 * 🤝  I'm open to collaborating on Mobile Development Project
 * ⚡  My super power is smart... but don't tell anyone
 
-<a href="https://www.github.com/raufendro-dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/raufendro-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/raufendro" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/raufendro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
