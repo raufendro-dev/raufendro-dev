@@ -12,7 +12,7 @@ I am a mobile developer who has been working for 2 years. I started with Flutter
 * 🧠  I'm learning Bloc State Management Library
 * 🤝  I'm open to collaborating on Mobile Development Project
 * ⚡  My super power is smart... but don't tell anyone
-*  Check My Simple pub.dev [ez_alarm](https://pub.dev/packages/ez_alarm)
+*  Check my simple pub.dev [ez_alarm](https://pub.dev/packages/ez_alarm)
 
 ### Skills
 
