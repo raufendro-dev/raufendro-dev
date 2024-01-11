@@ -14,6 +14,7 @@ I am a mobile developer who has been working for 2 years. I started with Flutter
 * ⚡  My super power is smart... but don't tell anyone
 
 #### Check my simple pub.dev [ez_alarm](https://pub.dev/packages/ez_alarm)
+#### Check my vscode extension [Flutter Create Model (FLCM)]([https://pub.dev/packages/ez_alarm](https://marketplace.visualstudio.com/items?itemName=raufendro-dev.flutter-create-model))
 
 ### Skills
 
