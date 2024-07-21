@@ -4,10 +4,10 @@ Hi 👋 My name is Rauf Endro Widagdo
 Mobile Developer
 ----------------
 
-I am a mobile developer who has been working for 2 years. I started with Flutter/Dart and continue to use it until now.
+I am a mobile developer who has been working for 2+ years. I started with Flutter/Dart and continue to use it until now.
 
 * 🌍  I'm based in Yogyakarta, Indonesia
-* ✉️  You can contact me at [me@raufendro-dev.com](mailto:me@raufendro-dev.com)
+* ✉️  You can contact me at [raufendro@gmail.com](mailto:raufendro@gmail.com)
 * 🚀  I'm currently working on [HRD.ID Mobile Apps](http://hrd.id), [MyCitranet Mobile Apps](https://citra.net.id/), and [Baraya Paket Mobile Apps](https://baraya-paket.com/)
 * 🧠  I'm learning Bloc State Management Library
 * 🤝  I'm open to collaborating on Mobile Development Project
