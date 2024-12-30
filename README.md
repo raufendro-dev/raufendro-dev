@@ -8,10 +8,10 @@ I am a mobile developer who has been working for 2+ years. I started with Flutte
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * ✉️  You can contact me at [raufendro@gmail.com](mailto:raufendro@gmail.com)
-* 🚀  I'm currently working on [HRD.ID Mobile Apps](http://hrd.id), [MyCitranet Mobile Apps](https://citra.net.id/), and [Baraya Paket Mobile Apps](https://baraya-paket.com/)
-* 🧠  I'm learning Bloc State Management Library
+* 🚀  I'm currently working on [HRD.ID Mobile Apps](http://hrd.id), [MyCitranet Mobile Apps](https://citra.net.id/), [Baraya Paket Mobile Apps](https://baraya-paket.com/), [Jogjastreamers Mobile Apps](https://jogjastreamers.com)
+* 🧠  I'm learning Provider State Management and Bloc State Management Library
 * 🤝  I'm open to collaborating on Mobile Development Project
-* ⚡  My super power is smart... but don't tell anyone
+* ⚡  My super power is smart... sssttttttt don't tell anyone
 
 #### Check my simple pub.dev [ez_alarm](https://pub.dev/packages/ez_alarm)
 #### Check my vscode extension [Flutter Create Model (FLCM)](https://marketplace.visualstudio.com/items?itemName=raufendro-dev.flutter-create-model) ⭐5 stars please 🥺
