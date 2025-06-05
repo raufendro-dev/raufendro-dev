@@ -4,7 +4,7 @@ Hi 👋 My name is Rauf Endro Widagdo
 Mobile Developer
 ----------------
 
-I am a mobile developer who has been working for 2+ years. I started with Flutter/Dart and continue to use it until now.
+I am a mobile developer who has been working for 3+ years. I started with Flutter/Dart and continue to use it until now.
 
 * 🌍  I'm based in Yogyakarta, Indonesia
 * ✉️  You can contact me at [raufendro@gmail.com](mailto:raufendro@gmail.com)
