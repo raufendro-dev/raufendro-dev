@@ -7,7 +7,7 @@ Mobile Developer
 I am a mobile developer who has been working for 3+ years. I started with Flutter/Dart and continue to use it until now.
 
 * 🌍  I'm based in Yogyakarta, Indonesia
-* ✉️  You can contact me at [raufendro@gmail.com](mailto:me@raufendro.id)
+* ✉️  You can contact me at [me@raufendro.id](mailto:me@raufendro.id)
 * 🚀  I'm currently working on [HRD.ID Mobile Apps](http://hrd.id), [MyCitranet Mobile Apps](https://citra.net.id/), [Baraya Paket Mobile Apps](https://baraya-paket.com/), [Jogjastreamers Mobile Apps](https://jogjastreamers.com)
 * 🧠  I'm learning Provider State Management and Bloc State Management Library
 * 🤝  I'm open to collaborating on Mobile Development Project
