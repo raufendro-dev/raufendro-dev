@@ -58,17 +58,10 @@ I'm a developer based in **Yogyakarta, Indonesia** 🇮🇩, with **3+ years of 
 
 ### Open-source & community
 
-- 📦 **[ez_alarm](https://pub.dev/packages/ez_alarm)** — A package published on pub.dev.
+- 📦 **[anti_intip_variabel](https://pub.dev/packages/anti_intip_variabel)** — A package published on pub.dev.
 - 🛠️ **[Flutter Create Model (FLCM)](https://marketplace.visualstudio.com/items?itemName=raufendro-dev.flutter-create-model)** — A VS Code extension for Flutter development.
 
-### GitHub activity
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raufendro-dev&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
-  <img alt="Most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raufendro-dev&layout=compact&hide_border=true&theme=default&bg_color=00000000" />
-</picture>
 
 <sub>Language statistics reflect public GitHub repositories, not overall proficiency.</sub>
 
