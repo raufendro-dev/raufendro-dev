@@ -42,7 +42,6 @@ I'm a developer based in **Yogyakarta, Indonesia** 🇮🇩, with **3+ years of 
 **Infrastructure & tools**
 
 ![Linux](https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-18181B?style=flat-square&logo=ubuntu&logoColor=E95420)
 ![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED)
 ![Nginx](https://img.shields.io/badge/Nginx-18181B?style=flat-square&logo=nginx&logoColor=009639)
 ![Bash](https://img.shields.io/badge/Bash-18181B?style=flat-square&logo=gnubash&logoColor=white)
